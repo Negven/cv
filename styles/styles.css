@@ -42,8 +42,8 @@ p {
 
 li {
     font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
+    font-weight: 600;
+    font-size: 16px;
     line-height: 24px;
     margin-left: 15px;
 }
@@ -73,6 +73,7 @@ aside {
 
 .aside__block {
     margin-left: 40px;
+    width: 265px;
     margin-top: 51px;
 }
 
@@ -141,6 +142,10 @@ main h4 {
     margin-top: 12px;
 }
 
+.vocation {
+    margin-bottom: 30px;
+}
+
 .vocation__time {
     margin-top: 11px;
     font-style: normal;
@@ -162,4 +167,13 @@ main h4 {
 
 .education_place {
     margin-top: 10px;
+}
+
+.projects__p {
+    font-size: 14px;
+}
+
+.education__link {
+    color: #fb6d3a;
+
 }
