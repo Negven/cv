@@ -56,7 +56,6 @@ li {
 }
 
 aside {
-    width: 420px;
     background: #1e2939;
     padding: 0 20px;
 }
@@ -72,8 +71,8 @@ aside {
 }
 
 .aside__block {
-    margin-left: 40px;
-    width: 265px;
+    margin-left: 10px;
+    width: 274px;
     margin-top: 51px;
 }
 
